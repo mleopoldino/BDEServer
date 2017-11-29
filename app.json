@@ -1,0 +1,8 @@
+{
+  "name": "Servidor Multiplayer NodeJS",
+  "description": "Servidor multiplayer do Jogo BdE",
+  "repository": "https://github.com/mleopoldino/ServerNodeBdE",
+  "logo": "https://small-sharp-tool.com/logo.svg",
+  "keywords": ["node", "socket"],
+  "image": "heroku/nodejs" 
+}
